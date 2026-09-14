@@ -1,7 +1,7 @@
 # JSA-TOOL_V1.0
 <div align="center">
 
-# 🔎 jsa-tool
+# 🔎 JSA-tool
 
 **Client-side recon for JS, CSS, and HTML — real parsers, not regex.**
 
